@@ -67,7 +67,7 @@ python main.py
 You can customize the training process using Command Line Arguments:
 
 ```bash
-python main.py --epochs 100 --lr 0.005 --samples 500
+python3 main.py --epochs 100 --lr 0.005 --samples 500
 ```
 
 ### CLI Arguments
